@@ -24,7 +24,10 @@ Signup page
 I worked alone
 
 ## What you learned
-Flask is really awesome for whipping up a simple frontend or backend and interacting with a lightweight database. It's quick to learn, since python is a very familiar language; it was fun and rewarding to create the app. 
+Flask is really awesome for whipping up a simple frontend or backend and interacting with a lightweight database. It's quick to learn, since python is a very familiar language; it was fun and rewarding to create the app. I really liked flask because it was in python and had great documentation, and the tutorials were quick. It was also an introduction to styling in bulma, which I think is a really nice library for css.
+
+## What didn't work? 
+Didn't have a chance to deploy it so I didn't really get a chance to test it as much as I would have liked.
 
 ## Authors
 Elizabeth (Edie) Wilson
