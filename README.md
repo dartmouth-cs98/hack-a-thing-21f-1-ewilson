@@ -1,25 +1,21 @@
 # Hack Technology / Project Attempted
-
+Flask for REST API / templating for lightweight apps 
 
 ## What you built? 
-
-TODO: Short description of what you attempted to build
+A login flow, a blog posting interface.
 
 Include some screenshots.
 [How?](https://help.github.com/articles/about-readmes/#relative-links-and-image-paths-in-readme-files)
 
 ## Who Did What?
-
-TODO: who worked on what part?
+I worked alone
 
 ## What you learned
-
-TODO: what worked / what didn't work
+Flask is really awesome for whipping up a simple frontend or backend and interacting with a lightweight database. It's quick to learn, since python is a very familiar language; it was fun and rewarding to create the app. 
 
 ## Authors
-
-TODO: list of authors
+Elizabeth (Edie) Wilson
 
 ## Acknowledgments
+Followed [This tutorial](https://www.youtube.com/watch?v=K0vSCCAM2ss) for creating a flask application with authentication. 
 
-TODO: cite any tutorials followed here
