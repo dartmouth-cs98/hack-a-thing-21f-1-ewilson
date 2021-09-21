@@ -2,10 +2,23 @@
 Flask for REST API / templating for lightweight apps 
 
 ## What you built? 
-A login flow, a blog posting interface.
+A login flow, and a blog posting interface. Here are some screenshots!
 
-Include some screenshots.
-[How?](https://help.github.com/articles/about-readmes/#relative-links-and-image-paths-in-readme-files)
+Home page
+![Home page](hack/project-screenshots/home-loggedin.png)
+
+Home page (logged out)
+![Home page (logged out)](hack/project-screenshots/home-loggedout.png)
+
+Login screen
+![Login screen](hack/project-screenshots/login.png)
+
+User profile
+![User profile](hack/project-screenshots/profile.png)
+
+Signup page
+![Signup page](hack/project-screenshots/signup.png)
+
 
 ## Who Did What?
 I worked alone
@@ -17,5 +30,5 @@ Flask is really awesome for whipping up a simple frontend or backend and interac
 Elizabeth (Edie) Wilson
 
 ## Acknowledgments
-Followed [This tutorial](https://www.youtube.com/watch?v=K0vSCCAM2ss) for creating a flask application with authentication. 
+Followed [this tutorial](https://www.youtube.com/watch?v=K0vSCCAM2ss) for creating a flask application with authentication. 
 
